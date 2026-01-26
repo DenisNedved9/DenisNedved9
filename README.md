@@ -1,6 +1,6 @@
 <h3 align="center">15 letý programátor 🛠️</h3>
 
-- 🔭 Aktuálně se učím [⭐ Python](Java, C#)
+- 🔭 Aktuálně se učím [⭐ Python],  (Java, C#)
 
 - Email: **medvidkov9@gmail.com**
 
