@@ -1,4 +1,4 @@
-<h3 align="center">15 letý programátor 🛠️</h3>
+<h3 align="center">Student Software Engineering na DELTĚ Pardubice 🚀</h3>
 
 - 🔭 Aktuálně se učím [⭐ Python],  (Java, C#)
 
