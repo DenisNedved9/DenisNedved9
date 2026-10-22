@@ -6,7 +6,6 @@ I'm a Software Engineering student at **DELTA in Pardubice, Czech Republic**, in
 
 - 🎓 Studying Software Engineering
 - 💻 Programming in Python, JavaScript, and C#
-- 📚 Currently learning SQL and database fundamentals
 - 🎯 Looking for a software development internship
 - 🇨🇿 Based in the Czech Republic
 
@@ -37,10 +36,10 @@ I'm a Software Engineering student at **DELTA in Pardubice, Czech Republic**, in
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="filter: invert(1);" />
 </p>
 
-**Currently learning:** SQL and relational database fundamentals.
+> 📖 **Currently learning:** SQL and relational database fundamentals.
 
 ---
 
@@ -54,7 +53,7 @@ An educational application focused on practicing mathematical skills and logical
 - **Technologies:** Python, HTML, CSS, JavaScript.
 - **Source code:** [View BrainApp repository](https://github.com/DenisNedved9/brain-app)
 
-[Browse my repositories](https://github.com/DenisNedved9?tab=repositories)
+🔍 **[Browse all my repositories](https://github.com/DenisNedved9?tab=repositories)**
 
 ---
 
@@ -62,6 +61,7 @@ An educational application focused on practicing mathematical skills and logical
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DenisNedved9&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisNedved9&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Most-used programming languages" />
 </p>
 
@@ -79,8 +79,8 @@ An educational application focused on practicing mathematical skills and logical
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/denis-nedv%C4%9Bd-4330a2439/">
+<p align="left">
+  <a href="https://www.linkedin.com/in/denis-nedv%C4%9Bd-4330a2439/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
