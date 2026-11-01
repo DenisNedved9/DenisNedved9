@@ -21,7 +21,7 @@ I'm a Software Engineering student at **DELTA in Pardubice, Czech Republic**, in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="48" height="48" alt="C" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="48" height="48" alt="C" />
 </p>
 
 **Web Development**
