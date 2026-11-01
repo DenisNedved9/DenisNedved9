@@ -58,16 +58,6 @@ An educational application focused on practicing mathematical skills and logical
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenisNedved9&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisNedved9&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Most-used programming languages" />
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - Find a software development internship.
