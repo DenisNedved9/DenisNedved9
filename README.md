@@ -5,7 +5,7 @@
 I'm a Software Engineering student at **DELTA in Pardubice, Czech Republic**, interested in software development, problem-solving, and building useful applications.
 
 - 🎓 Studying Software Engineering
-- 💻 Programming in Python, JavaScript, and C#
+- 💻 Programming in Python, C, JavaScript, and C#
 - 🎯 Looking for a software development internship
 - 🇨🇿 Based in the Czech Republic
 
