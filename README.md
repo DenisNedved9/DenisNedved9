@@ -5,7 +5,7 @@
 I'm a Software Engineering student at **DELTA in Pardubice, Czech Republic**, interested in software development, problem-solving, and building useful applications.
 
 - 🎓 Studying Software Engineering
-- 💻 Programming in Python, C, JavaScript, and C#
+- 💻 Programming primarily in C and Python, with basics of JavaScript and C#
 - 🎯 Looking for a software development internship
 - 🇨🇿 Based in the Czech Republic
 
@@ -16,12 +16,13 @@ I'm a Software Engineering student at **DELTA in Pardubice, Czech Republic**, in
 **Languages**
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="48" height="48" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="48" height="48" alt="C" />
+  
 </p>
 
 **Web Development**
